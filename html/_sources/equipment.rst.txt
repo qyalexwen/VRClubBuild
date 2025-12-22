@@ -1,0 +1,40 @@
+.. VR Club documentation master file, created by
+   sphinx-quickstart on Thu Dec 11 07:58:33 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+VR Equipments
+================================
+Our VR equipments include 3 VR headsets and several depth sensors
+
+VR Headsets
+------------------
+Headset 1: Meta Quest 2 64GB
+This headset has a headstrap with a battery. 
+
+
+Headset 2: Meta Quest 2 256GB 
+This headset has a headstrap, and the left handle has drift at the moment. May need to calibrate it a bit.  
+
+
+
+Headset 3: Pico4 
+
+
+Depth Sensors
+----------------
+Microsoft Kinect 1
+
+Microsoft Kinect 2
+
+Leap Motion 
+
+
+VR Display
+------------------
+A 3D display. 
+
+
+Other Equipment Access
+--------------------------
+
