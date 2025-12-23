@@ -8,8 +8,9 @@ Virtual Reality Club
 Virtual Reality (VR) is a technology that replaces a user's environment senses, such as sight, hearing, body awareness, so that he/she can feel things in another digital and virtual environment. The purpose of the Virtual Reality Club is to bring fun, creativity and education to VR, and make VR available to more users. We also host events to get more people to experience and understand VR.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    
    equipment
    events
+   scenes

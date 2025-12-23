@@ -1,0 +1,58 @@
+.. VR Club documentation master file, created by
+   sphinx-quickstart on Thu Dec 11 07:58:33 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Scenes 
+===============
+
+
+These are scenes from the Icosa gallery. The scene is 3D, and screen shots are taken from different angles. 
+
+
+Summer Canal
+--------------------
+
+Several old houses at the bank of the canal. Trees around them.
+
+.. image:: _static/images/summer_canal1.png
+   :align: center
+
+
+.. image:: _static/images/summer_canal2.png
+   :align: center
+   
+Hover Bike
+--------------------
+A girl riding a hover bike
+
+
+
+Space X Mars Colony
+--------------------
+An astronaut holding a flag outside a landing pod on Mars
+
+.. image:: _static/images/mars1.png
+   :align: center
+
+.. image:: _static/images/mars2.png
+   :align: center
+
+
+**Old City**: 	B&W houses with stairs in an old city block
+	
+**Desperado Scene**: A man and a woman are walking on a rooftop, with guns in hand
+
+**Lunch Break**: 	Skyscraper builders having lunch on a steel bar
+
+**Xmas Snowball**: 	Snow falling onto a Christmas tree, in a glass ball
+
+**An afternoon in Tokyo**: A boy meets a girl at stairs
+
+**Mother of dragons**: 	A lady is riding a flying dragon, and the dragon is spitting fire.
+
+**Rusty Spaceship**: Several space ships
+
+**A Lone Ranger**: 	A cowboy and an American Indian are riding horses going across the plains
+
+
