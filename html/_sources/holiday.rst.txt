@@ -1,0 +1,63 @@
+.. VR Club documentation master file, created by
+   sphinx-quickstart on Thu Dec 11 07:58:33 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Holiday Programs
+=================
+From Dec/2025 to Jan/2025, we have some programs suitable for families, childen and adults.
+
+
+VR Party Hire 
+--------------------
+.. image:: _static/images/mars1.png
+   :align: center
+
+
+Hire 2 or 3 VR headsets, and let kids or adults to have fun in VR !
+
+1. Experience beautiful and inspiring VR scenes/objects created by artists
+
+2. Watch short VR films
+
+3. Create objects, scenes or buildings in VR using the famous tilt brush! Decorate your own living room (single floor, single room) using special effects like star, snow, rainbow, etc! 
+
+4. Play interactive VR games, single player or multi-player. Extra cost apply depends on games.
+
+
+**Pricing** 
+ 
+- 2 headsets for $90 for 1 hour, $150 for 2 hours 
+- 3  headsets for 120 for 1 hour, $220 for 2 hours.
+
+We are located at Ryde area. Extra fees ($10-$20) apply if far from Ryde. 
+
+
+VR Creative Camp 
+--------------------
+
+.. image:: _static/images/OpenBrush1.jpeg
+   :align: center
+
+.. image:: _static/images/OpenBrush2.jpeg
+   :align: center
+
+
+Come and learn to use Open Brush/Tilt Brush for 2 hours. 2-3 students at least. 
+
+- 30 minutes of tutorial time
+- 50 minutes of practice time
+- 20-30 minutes to experience other artists works
+
+Location at Marsfield, NSW 2122. 
+
+**Pricing** 
+
+$100 per person, at least two persons in a group. 
+
+Contact: **0478266266**  by SMS or WhatsApp. 
+
+
+
+
+

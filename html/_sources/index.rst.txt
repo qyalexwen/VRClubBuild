@@ -11,6 +11,7 @@ Virtual Reality (VR) is a technology that replaces a user's environment senses, 
    :maxdepth: 3
    :caption: Contents:
    
-   equipment
-   events
+   holiday
    scenes
+   events
+   equipment
